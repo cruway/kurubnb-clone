@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "kurubnb-clone"
+version = "0.1.0"
+description = ""
+authors = ["sim wook <astralkaiser89@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "kurubnb_clone"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Django = "^4.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
