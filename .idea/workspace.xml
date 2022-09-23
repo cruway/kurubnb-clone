@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="944814c8-75d6-4d5d-986f-a99bad658ad1" name="Changes" comment=".gitignore 修正">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="944814c8-75d6-4d5d-986f-a99bad658ad1" name="Changes" comment="DB追加">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663842481281</updated>
       <workItem from="1663842482547" duration="2063000" />
-      <workItem from="1663886533625" duration="2396000" />
+      <workItem from="1663886533625" duration="4105000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore 修正">
       <created>1663843194227</created>
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663843194227</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DB追加">
+      <created>1663927919515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663927919515</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".gitignore 修正" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore 修正" />
+    <MESSAGE value="DB追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="DB追加" />
   </component>
 </project>
