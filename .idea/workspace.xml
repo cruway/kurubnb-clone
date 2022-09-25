@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="944814c8-75d6-4d5d-986f-a99bad658ad1" name="Changes" comment="DB追加">
+    <list default="true" id="944814c8-75d6-4d5d-986f-a99bad658ad1" name="Changes" comment="country code change">
+      <change afterPath="$PROJECT_DIR$/houses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houses/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houses/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houses/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houses/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houses/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houses/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
     </list>
@@ -17,13 +25,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F7UBdQZsYOthVh8XkWroWH6if2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -49,7 +60,10 @@
       <option name="presentableId" value="Default" />
       <updated>1663842481281</updated>
       <workItem from="1663842482547" duration="2063000" />
-      <workItem from="1663886533625" duration="4105000" />
+      <workItem from="1663886533625" duration="4852000" />
+      <workItem from="1663971516609" duration="422000" />
+      <workItem from="1664066907570" duration="1619000" />
+      <workItem from="1664092163589" duration="2744000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore 修正">
       <created>1663843194227</created>
@@ -65,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663927919515</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="country code change">
+      <created>1663938002923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663938002923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,8 +104,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value=".gitignore 修正" />
     <MESSAGE value="DB追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="DB追加" />
+    <MESSAGE value="country code change" />
+    <option name="LAST_COMMIT_MESSAGE" value="country code change" />
   </component>
 </project>
