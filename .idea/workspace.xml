@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="944814c8-75d6-4d5d-986f-a99bad658ad1" name="Changes" comment="country code change">
-      <change afterPath="$PROJECT_DIR$/houses/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houses/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houses/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houses/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houses/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houses/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houses/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="944814c8-75d6-4d5d-986f-a99bad658ad1" name="Changes" comment="model create">
+      <change afterPath="$PROJECT_DIR$/houses/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houses/migrations/0002_rename_price_house_price_per_night.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/houses/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,8 @@
       <workItem from="1663886533625" duration="4852000" />
       <workItem from="1663971516609" duration="422000" />
       <workItem from="1664066907570" duration="1619000" />
-      <workItem from="1664092163589" duration="2744000" />
+      <workItem from="1664092163589" duration="2773000" />
+      <workItem from="1664152187932" duration="4583000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore 修正">
       <created>1663843194227</created>
@@ -86,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663938002923</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="model create">
+      <created>1664116681985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664116681985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +111,7 @@
     <MESSAGE value=".gitignore 修正" />
     <MESSAGE value="DB追加" />
     <MESSAGE value="country code change" />
-    <option name="LAST_COMMIT_MESSAGE" value="country code change" />
+    <MESSAGE value="model create" />
+    <option name="LAST_COMMIT_MESSAGE" value="model create" />
   </component>
 </project>
